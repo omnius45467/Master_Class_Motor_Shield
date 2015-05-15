@@ -14,6 +14,7 @@ void demo(){
 //A ping Routine
 
 void pingLogic(){
+  ping();
   if(cm >= 50){
     forward();
   }

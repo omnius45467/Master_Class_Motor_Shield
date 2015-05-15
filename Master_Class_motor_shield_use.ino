@@ -38,8 +38,8 @@ void setup(){
 
 void loop(){
 //  demo();
-  ping();
-  Serial.println(cm);
   pingLogic();
+  Serial.println(cm);
+
 }
 
