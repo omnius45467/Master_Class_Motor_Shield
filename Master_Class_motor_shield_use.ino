@@ -1,5 +1,8 @@
 //master delay
-int DELAY = 20;
+const int DELAY = 2;
+
+//speed
+const int speedPwr = 100;
 //motor A
 const int motorA_dir = 12;
 const int motorA_pwm = 3;
